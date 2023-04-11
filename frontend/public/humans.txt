@@ -1,0 +1,17 @@
+# humanstxt.org/
+
+/* WHATS THIS ABOUT */
+Test task by 'Enter VR' for position of middle frontend developer [MEGALOL XD]
+
+/* TEAM */
+Demetrey <demetrey.ru> Design & Front-Back-End
+
+/* TECHNOLOGIES */
+Software: Docker, VSCode
+Standards: HTML5, CSS3/SCSS, JavaScript ES2019, TypeScript 5, Script Setup SFC, ESlint 8, Prettier 2
+Frontend: Node 18, Vite 4, Vue 3, Pinia 2
+Backend: Node 18, Nest 9, PostgreSQL 8, Swagger 6
+
+/* PROJECT UPDATES */
+Created: 2023-04-04 18-40
+Last modified: 2023-04-12 04-43

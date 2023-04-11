@@ -1,0 +1,18 @@
+{
+  "name": "Demetory 4 Enter VR",
+  "short_name": "Demetory 4 Enter VR",
+  "description": "Testtask for the Enter VR Company.",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "id": "/?",
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa",
+  "display": "standalone",
+  "orientation": "landscape"
+}

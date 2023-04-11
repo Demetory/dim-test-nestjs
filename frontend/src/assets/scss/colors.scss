@@ -1,0 +1,35 @@
+/* ==========================================================================
+   VARIABLES: Color Library
+
+   Imported through ./vite.config.ts as @use directive
+   Usage: colors.$var
+   ========================================================================== */
+
+$white: #fff;
+$black: #231f23;
+
+$grey-100: #f9fafc;
+$grey-200: #eff1f5;
+$grey-300: #e7e9ee;
+$grey-400: #d8dae0;
+$grey-500: #b0b0b0;
+$grey-600: rgb(5 5 7 / 20%);
+$grey-700: rgb(0, 0, 0, 0.8);
+$grey-800: rgb(0, 0, 0, 0.5);
+
+$red-100: #eb5757;
+
+$green-300: #27ae60;
+
+$blue-700: #073b90;
+$blue-500: #0f67c8;
+$blue-400: #1585e9;
+$blue-200: #a0dffc;
+$blue-100: #cff1fd;
+
+// Not really the colors, but anyway
+$border: solid 1px $grey-300;
+$border-radius: 16px;
+
+$transition: 0.3s ease-in-out;
+$shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);

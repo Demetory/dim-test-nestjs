@@ -1,0 +1,49 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "description": "Enter VR Testtask - Frontend",
+  "author": "Demetory",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.33",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "eslint": "^8.37.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-vue": "^9.10.0",
+    "prettier": "2.8.7",
+    "sass": "^1.60.0",
+    "sass-loader": "^13.2.2",
+    "typescript": "^5.0.3",
+    "vite": "^4.2.0",
+    "vue-tsc": "^1.2.0"
+  },
+  "engines": {
+    "node": "^18 || ^16",
+    "npm": ">= 9.5.0"
+  },
+  "browserslist": [
+    "last 4 Chrome versions",
+    "last 4 Firefox versions",
+    "last 4 Edge versions",
+    "last 4 Safari versions",
+    "last 4 Android versions",
+    "last 4 ChromeAndroid versions",
+    "last 4 FirefoxAndroid versions",
+    "last 4 iOS versions"
+  ]
+}
